@@ -1,0 +1,12 @@
+body{
+   padding:50px;
+    background-color:bisque;
+    font-style: bold;
+    font-size: medium;
+}
+#main{
+    padding:100px;
+    background-color: beige;
+    font-style: bold;
+    font-size: medium;
+}
